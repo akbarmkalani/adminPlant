@@ -1,5 +1,5 @@
 # adminPanel
-[Project Demo]https://akbarmkalani.github.io/adminPlant/
+[Project Demo (https://akbarmkalani.github.io/adminPlant/)]
 
 
 
